@@ -7,4 +7,4 @@ This is my personal scaffold command that I use to create a new Odoo app/module.
 
 - Now I have to go and delete all the imports of unwanted stuff because someone thought it was a good idea to add the demo folder in a scaffold command because it's a very common use case, right?!
 
-Anyway, I will not tell you how to use it because it's so obvious. Simply run `python scaffold.py` and figure it out yourself."
+Anyway, I will not tell you how to use it because it's so obvious. Simply run `python scaffold.py` and figure it out yourself.
